@@ -1,0 +1,127 @@
+p{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #727272;
+}
+
+.desktop {
+width: 1920px;
+height: 700px;
+left: 0px;
+top: 0px;
+background: #EEEFF1;
+}
+
+.menu{
+height: 29px;
+padding-left: 399px;
+padding-top: 79px;
+
+}
+
+.homepage {
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+color: #34547A;
+
+}
+
+.about-author{ 
+padding-left: 42px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+color: #000000;
+
+}
+
+.works{
+padding-left: 42px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+color: #000000;
+
+}
+
+.process{
+padding-left: 42px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+color: #000000;
+
+}
+
+.contact{
+padding-left: 42px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+color: #000000;
+}
+
+.DesignAndLayout{
+width: 541px;
+height: 45px;
+padding-left: 399px;
+padding-top: 161px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 79px;
+color: #000000;
+}
+
+.lorem-text{
+margin-top: 60px;
+width: 540px;
+height: 67px;
+padding-left: 400px;
+}
+
+.restangle2{
+width: 225px;
+height: 65px;
+margin-top: 65px;
+margin-left: 399px;
+top: 494px;
+text-align: center;
+background: #34547A;
+}
+
+.text_button{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+padding-top: 19px;
+text-align: center;
+letter-spacing: 0.1em;
+text-decoration: none;
+text-decoration: none;
+} 
+.restangle2 a{
+color: #FFFFFF;
+}
