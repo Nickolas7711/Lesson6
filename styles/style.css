@@ -1,11 +1,4 @@
-p{
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 26px;
-color: #727272;
-}
+
 
 .desktop {
 width: 1920px;
@@ -31,7 +24,14 @@ font-size: 16px;
 line-height: 26px;
 letter-spacing: 0.1em;
 color: #34547A;
+text-decoration: none;
 
+}
+
+.homepage:hover, .about-author:hover, .works:hover, .process:hover, .contact:hover, .text_button:hover{
+text-decoration-line: underline;
+text-decoration-color:aqua;
+text-decoration-thickness: 3px;
 }
 
 .about-author{ 
@@ -42,6 +42,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 26px;
 letter-spacing: 0.1em;
+text-decoration: none;
 color: #000000;
 
 }
@@ -54,6 +55,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 26px;
 letter-spacing: 0.1em;
+text-decoration: none;
 color: #000000;
 
 }
@@ -66,6 +68,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 26px;
 letter-spacing: 0.1em;
+text-decoration: none;
 color: #000000;
 
 }
@@ -78,6 +81,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 26px;
 letter-spacing: 0.1em;
+text-decoration: none;
 color: #000000;
 }
 
@@ -95,33 +99,143 @@ color: #000000;
 }
 
 .lorem-text{
-margin-top: 60px;
 width: 540px;
 height: 67px;
 padding-left: 400px;
+padding-top: 60px;
 }
 
-.restangle2{
-width: 225px;
-height: 65px;
-margin-top: 65px;
-margin-left: 399px;
-top: 494px;
-text-align: center;
-background: #34547A;
-}
-
-.text_button{
+.lorem-text p{
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-padding-top: 19px;
+line-height: 26px;
+
+color: #727272;
+}
+
+.restangle2{
+display: flex;
+width: 225px;
+height: 65px;
+margin-top: 65px;
+margin-left: 399px;
 text-align: center;
-letter-spacing: 0.1em;
-text-decoration: none;
-text-decoration: none;
-} 
+background: #34547A;
+}
+
 .restangle2 a{
 color: #FFFFFF;
+}
+
+.text_button{
+width: 143px;
+height: 26px;
+padding-top: 19px;
+padding-left: 41px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+letter-spacing: 0.1em;
+text-decoration: none;
+} 
+
+.about_me{
+width: 540px;
+height: 147px;
+margin-left: 690px;
+margin-top: 112px;
+margin-bottom: 0px;
+}
+
+.about_me_h2{
+width: 403px;
+height: 30px;
+margin-left: 68px;
+margin-top: 0px;
+margin-bottom: 0px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+color: #000000;
+}
+
+.about_me_lorem{
+width: 540px;
+height: 67px;
+margin-left: 0px;
+margin-top: 50px;
+}
+
+.about_me_lorem{
+width: 540px;
+height: 67px;
+margin-left: 0px;
+margin-top: 50px;
+margin-bottom: 0px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #727272;
+}
+
+.numbers{
+display: block;
+width: 1920px;
+height: 250px;
+margin-left: 0px;
+margin-top: 100px;
+background: #34547A;
+
+}
+
+.numbers_item1{
+width: 141px;
+height: 50px;
+margin-left: 409px;
+margin-top: 100px;
+}
+
+.numbers_item2{
+width: 141px;
+height: 50px;
+margin-left: 45px;
+margin-top: 100px;
+}
+
+.numbers_item3{
+width: 141px;
+height: 50px;
+margin-left: 49px;
+margin-top: 100px;
+}
+
+.numbers_item4{
+width: 141px;
+height: 50px;
+margin-left: 49px;
+margin-top: 100px;
+}
+
+.numbers_item5{
+width: 141px;
+height: 50px;
+margin-left: 49px;
+margin-top: 100px;
+}
+
+.numbers_item6{
+width: 141px;
+height: 50px;
+margin-left: 49px;
+margin-top: 100px;
 }
